@@ -52,7 +52,7 @@ to the server.
 If the file is present, the the 200 OK response will be send by the server.
 If it is not present, then the respective error will be handled by the server.
 
-cleintfile.py:
+clientfile.py:
 clientfile.py file is used for creating files for testing.
 
 ---------------------------------------------------------------------------------------------------
